@@ -4,8 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bb07ca5df6d5b91a53310850c08e38f6",
-    "packages": [
+    "content-hash": "ea40e3737aedcb48fe6b4eceb5ea20d6",
+    "packages": [],
+    "packages-dev": [
         {
             "name": "psr/log",
             "version": "3.0.2",
@@ -57,7 +58,6 @@
             "time": "2024-09-11T13:17:53+00:00"
         }
     ],
-    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],

@@ -2,9 +2,6 @@
     "name": "netology/igor",
     "description": "Домашнее задание по Composer",
     "type": "project",
-    "require": {
-        "psr/log": "^3.0"
-    },
     "autoload": {
         "psr-4": {
             "Netology\\Igor\\": "app/"
@@ -15,5 +12,8 @@
             "name": "Igor.Kirillov",
             "email": "Igor.Kirillov@x5.ru"
         }
-    ]
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
 }
